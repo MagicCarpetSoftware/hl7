@@ -1,0 +1,57 @@
+MSH|^~\&|MOADLEDIT^MOADLEDIT:3.1.2 (Build 6381) [win32-i386]^L|Unassigned^8D9FE669-4710-455D-8B97-811508B616E7^GUID|||20161102150514+1100||ORU^R01|XX11021505120-7859|P|2.4^AUS&&ISO^AS4700.2&&L|||||AUS
+PID|1||8003608833357361^^^AUSHIC^NI~7654321^^^RMH^MR||CITIZEN^GEORGE^^^||19640701|M|||C/o Paradise Close^^NAR  NAR GOON EAST^TAS^3181^AU||^^^^^^|^^^^^^||||||||||||||||||||||||
+PV1|1|O
+ORC|RE||3BE7CECB-AD59-4C46-B711-5F6E137C2890^Unassigned^8D9FE669-4710-455D-8B97-811508B616E7^GUID||CM
+OBR|1||3BE7CECB-AD59-4C46-B711-5F6E137C2890^Unassigned^8D9FE669-4710-455D-8B97-811508B616E7^GUID|11488-4^Consultation Note^LN|||20161102+1100|||||||||||||LN=3BE7CECB-AD59-4C46-B711-5F6E137C2890||201611021450+1100||SP|F||^^^20161102+1100
+OBX|1|RP|60572-5^^LN^ENTRY^^EN 13606|1|CEN.RCPA-ColorectalCancer.v3^Colorectal Cancer Structured Pathology Report&99A-4DD10FEE7661CBF6&L^TEXT^Octet-stream||||||F
+OBX|2|CE|70949-3^^LN^CLUSTER^^EN 13606|1.1|70949-3^Clinical details^LN||||||F
+OBX|3|ST|55752-0^Clinical information^LN|1.1.1|R Colon cancer||||||F
+OBX|4|ST|57723-9^Pathology Accession number^LN|1.1.2|89671-16MP||||||F
+OBX|5|ST|22027-7^Operating surgeon name^LN|1.1.3|Dr Dayoub||||||F
+OBX|6|CE|33725-3^Tumour location^LN|1.1.7|32713005^Caecum^SCT||||||F
+OBX|7|CE|29306-8^Type of operation^LN|1.1.10|235326000^Right hemicolectomy^SCT||||||F
+OBX|8|ST|81169-5^Surgeon's opinion on the existence of local residual cancer postsurgery^LN|1.1.13|Not stated||||||F
+OBX|9|ST|LN-RCPA-00064^Involvement of adjacent organs^LN|1.1.14|Not stated||||||F
+OBX|10|ST|LN-RCPA-00065^Regional (local) recurrence or distant metastasis^LN|1.1.16|Not stated||||||F
+OBX|11|CE|70949-3^^LN^CLUSTER^^EN 13606|1.2|70949-3^Macroscopic findings^LN||||||F
+OBX|12|NM|LN-RCPA-00066^Specimen length^LN|1.2.1|113|mm^^ISO+|||||F
+OBX|13|CE|33725-3^Tumour site^LN|1.2.2|32713005^Caecum^SCT||||||F
+OBX|14|NM|21889-1^Maximum tumour diameter^LN|1.2.3|43|mm^^ISO+|||||F
+OBX|15|NM|81175-2^Distance of tumour to the nearer proximal or distal 'cut end'^LN|1.2.4|35|mm^^ISO+|||||F
+OBX|16|NM|LN-RCPA-00067^Distance to nonperitonealised circumferential margin^LN|1.2.5|35|mm^^ISO+|||||F
+OBX|17|CE|LN-RCPA-00068^Tumour perforation^LN|1.2.6|2667000^Absent^SCT||||||F
+OBX|18|CE|LN-RCPA-00069^Relationship to anterior peritoneal reflection^LN|1.2.7|at0092^Entirely above^99A-4DD10FEE7661CBF6||||||F
+OBX|19|CE|66112-4^Lymph nodes^LN|1.2.10|at0224^Received^99A-4DD10FEE7661CBF6||||||F
+OBX|20|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3|70949-3^Microscopic findings^LN||||||F
+OBX|21|CE|LN-RCPA-00071^Tumour type^LN|1.3.1|35917007^Adenocarcinoma, NOS^SCT||||||F
+OBX|22|CE|33732-9^Histological grade^LN|1.3.2|399415002^Low grade - well and moderately differentiated^SCT||||||F
+OBX|23|CE|LN-RCPA-00072^Maximum degree of local invasion into or through the bowel wall^LN|1.3.3|395707006^pT3-Tumour invades through muscularis propria into pericolorectal tissues^SCT||||||F
+OBX|24|CE|LN-RCPA-00073^Involvement of the proximal/distal resection ('cut end') margins^LN|1.3.4|at0143^Not involved^99A-4DD10FEE7661CBF6||||||F
+OBX|25|CE|LN-RCPA-00075^Status of nonperitonealised circumferential margin (rectal tumours)^LN|1.3.8|at0241^Not involved^99A-4DD10FEE7661CBF6||||||F
+OBX|26|NM|LN-RCPA-00076^Microscopic clearance^LN|1.3.9|35|mm^^ISO+|||||F
+OBX|27|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3.11.1|70949-3^Lymph node site/s^LN||||||F
+OBX|28|ST|21893-3^Number of positive^LN|1.3.11.1.2|0||||||F
+OBX|29|ST|21894-1^Total number of lymph nodes^LN|1.3.11.1.3|13||||||F
+OBX|30|CE|LN-RCPA-00077^Isolated extra-mural tumour deposits^LN|1.3.12|2667000^Absent^SCT||||||F
+OBX|31|CE|LN-RCPA-00078^Apical node involvement^LN|1.3.13|2667000^Absent^SCT||||||F
+OBX|32|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3.14|70949-3^Venous and small vessel invasion^LN||||||F
+OBX|33|CE|LN-RCPA-00079^Intramural vein invasion^LN|1.3.14.2|at0146^Not identified^99A-4DD10FEE7661CBF6||||||F
+OBX|34|CE|LN-RCPA-00080^Extramural vein invasion^LN|1.3.14.3|at0149^Not identified^99A-4DD10FEE7661CBF6||||||F
+OBX|35|CE|33739-4^Small vessel invasion^LN|1.3.14.4|372265000^Present^SCT||||||F
+OBX|36|CE|33741-0^Perineural invasion^LN|1.3.15|at0156^Not identified^99A-4DD10FEE7661CBF6||||||F
+OBX|37|CE|LN-RCPA-00081^Histologically confirmed distant metastases^LN|1.3.16|2667000^Absent^SCT||||||F
+OBX|38|CE|81317-0^Relevant coexistant pathological abnormalities^LN|1.3.18|260386005^None noted^SCT||||||F
+OBX|39|CE|70949-3^^LN^CLUSTER^^EN 13606|1.4|70949-3^Ancillary test findings^LN||||||F
+OBX|40|CE|70949-3^^LN^CLUSTER^^EN 13606|1.4.1|70949-3^Mismatch repair enzymes^LN||||||F
+OBX|41|CE|50328-4^PMS-2^LN|1.4.1.2|at0195^Normal staining^99A-4DD10FEE7661CBF6||||||F
+OBX|42|CE|50324-3^MSH-6^LN|1.4.1.4|at0201^Normal staining^99A-4DD10FEE7661CBF6||||||F
+OBX|43|CE|43368-0^Microsatellite instablility (MSI)^LN|1.4.1.6|373121007^Not tested^SCT||||||F
+OBX|44|CE|58483-9^BRAF (V600E mutation)^LN|1.4.1.9|at0208^Not tested^99A-4DD10FEE7661CBF6||||||F
+OBX|45|CE|21703-4^RAS gene mutation testing^LN|1.4.1.12|373121007^Not tested^SCT||||||F
+OBX|46|CE|70949-3^^LN^CLUSTER^^EN 13606|1.5|70949-3^Synthesis and overview^LN||||||F
+OBX|47|CE|70949-3^^LN^CLUSTER^^EN 13606|1.5.1|21902-2^Tumour stage (AJCC 2010)^LN||||||F
+OBX|48|CE|21899-0^T classification^LN|1.5.1.1|395707006^pT3^SCT||||||F
+OBX|49|CE|21900-6^N classification^LN|1.5.1.2|at0292^pN0^L||||||F
+OBX|50|CE|LN-RCPA-00084^Residual tumour status^LN|1.5.2|at0212^R0^99A-4DD10FEE7661CBF6||||||F
+OBX|51|FT|22637-3^Diagnostic summary^LN|1.5.3|Diagnostic summary:\.br\Speciment type: Right hemicolectomy\.br\Tumour site: Caecal\.br\Tumour type: Adenocarcinoma\.br\Tumour stage: T3 N0 MX\.br\Completeness of excision: Completely excised\.br\Diagnosis:\.br\Right Colon - Moderately differentiated caecal Adenocarcinoma, T3\.br\Thirteen lymph nodes negative for metastatis (0/13)\.br\Surgical margins clear||||||F
+OBX|52|ED|PDF^Display format in PDF^AUSPDI||^application^pdf^Base64^JVBERi0xLjYNJeLjz...||||||F

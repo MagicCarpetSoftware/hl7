@@ -1,0 +1,68 @@
+MSH|^~\&|MOADLEDIT^MOADLEDIT:3.1.2 (Build 6381) [win32-i386]^L|Unassigned^8D9FE669-4710-455D-8B97-811508B616E7^GUID|||20161019162427+1100||ORU^R01|XX10191624300-4735|P|2.4^AUS&&ISO^AS4700.2&&L|||||AUS
+PID|1||||CITIZEN^GEORGE^^^||19640701|M|||C/o Paradise Close^^NAR  NAR GOON EAST^TAS^3181^AU||^^^^^^|^^^^^^||||||||||||||||||||||||
+PV1|1|O
+ORC|RE||92D0CE50-173A-4A2F-A3B1-6165376F222B^Unassigned^8D9FE669-4710-455D-8B97-811508B616E7^GUID||CM
+OBR|1||92D0CE50-173A-4A2F-A3B1-6165376F222B^Unassigned^8D9FE669-4710-455D-8B97-811508B616E7^GUID|11488-4^Consultation Note^LN||20161019+1100|20161019+1100|||||||||||||LN=92D0CE50-173A-4A2F-A3B1-6165376F222B||201610191609+1100||PHY|F||^^^20161019+1100
+OBX|1|RP|60572-5^^LN^ENTRY^^EN 13606|1|CEN.RCPA-ProstateCancer_(Rad_Prostatectomy).v2^Prostate Cancer Histopathology&99A-F4ADB3A91A896333&L^TX^Octet-stream||||||F
+OBX|2|CE|70949-3^^LN^CLUSTER^^EN 13606|1.1|70949-3^Clinical details^LN||||||F
+OBX|3|ST|29306-8^Surgical procedure^LN|1.1.2|Radical prostatectomy||||||F
+OBX|4|ST|55752-0^Clinical information^LN|1.1.4|PCa G6 - prostate and seminal vesicles - left and right pelvic nodes - pre-prostatic fat - left apical margin - left lateral margin||||||F
+OBX|5|NM|2857-1^Pre-biopsy serum PSA^LN|1.1.6|5.9|ug/L^^ISO+|||||F
+OBX|6|ST|LN-RCPA-00085^Relevant clinical information for clinicopathological staging^LN|1.1.8|Core biopsy Gleason score: 3+3=6||||||F
+OBX|7|ST|57723-9^Pathology accession number^LN|1.1.9|89470-15MP||||||F
+OBX|8|ST|18600-7^Principal clinician^LN|1.1.10|Dr Smith||||||F
+OBX|9|CE|70949-3^^LN^CLUSTER^^EN 13606|1.2|70949-3^Macroscopic findings^LN||||||F
+OBX|10|NM|29638-4^Specimen weight^LN|1.2.1|60|g^^ISO+|||||F
+OBX|11|CE|70949-3^^LN^CLUSTER^^EN 13606|1.2.2|LN-RCPA-00086^Specimen dimensions (prostate)^LN||||||F
+OBX|12|NM|LN-RCPA-00100^Length^LN|1.2.2.1|51|mm^^ISO+|||||F
+OBX|13|NM|LN-RCPA-00101^Width^LN|1.2.2.2|47|mm^^ISO+|||||F
+OBX|14|NM|LN-RCPA-00102^Thickness^LN|1.2.2.3|42|mm^^ISO+|||||F
+OBX|15|CE|LN-RCPA-00087^Seminal vesicles^LN|1.2.3|at0196^Present^99A-F4ADB3A91A896333||||||F
+OBX|16|CE|LN-RCPA-00088^Lymph nodes^LN|1.2.4|52101004^Present^SNOMED-CT||||||F
+OBX|17|CE|20228-3^Laterality^LN|1.2.5|51440002^Bilateral^SNOMED-CT||||||F
+OBX|18|CE|70949-3^^LN^CLUSTER^^EN 13606|1.2.6.1|at0024^Site(s) and numbers of lymph nodes^99A-F4ADB3A91A896333||||||F
+OBX|19|ST|39111-0^Site^LN|1.2.6.1.1|Left pelvic||||||F
+OBX|20|NM|21894-1^Number of LNs from this site^LN|1.2.6.1.2|1||||||F
+OBX|21|ST|39111-0^Site 2^LN|1.2.6.1.3|Right pelvic||||||F
+OBX|22|NM|21894-1^Number of LNs from this site^LN|1.2.6.1.4|1||||||F
+OBX|23|ST|22634-0^Additional macroscopic  comments^LN|1.2.8|Volume: 0.6cm3 (3D volume estimate method)||||||F
+OBX|24|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3|70949-3^Microscopic findings^LN||||||F
+OBX|25|CE|44639-3^Histological tumour type^LN|1.3.1|45410002^Adenocarcinoma (Acinar, usual type)^SNOMED-CT||||||F
+OBX|26|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3.4|at0093^Tumour location^99A-F4ADB3A91A896333||||||F
+OBX|27|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3.4.4|LN-RCPA-00092^Locations by quadrant^LN||||||F
+OBX|28|CE|264176005^Right anterior^SNOMED-CT|1.3.4.4.1|31874001^Yes^SNOMED-CT||||||F
+OBX|29|CE|277593009^Right posterior^SNOMED-CT|1.3.4.4.2|31874001^Yes^SNOMED-CT||||||F
+OBX|30|CE|264065008^Left anterior^SNOMED-CT|1.3.4.4.3|31874001^Yes^SNOMED-CT||||||F
+OBX|31|CE|277594003^Left posterior^SNOMED-CT|1.3.4.4.4|31874001^Yes^SNOMED-CT||||||F
+OBX|32|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3.4.5|LN-RCPA-00090^Locations by plane^LN||||||F
+OBX|33|CE|68756004^Apex^SNOMED-CT|1.3.4.5.1|64100000^No^SNOMED-CT||||||F
+OBX|34|CE|279704000^Mid^SNOMED-CT|1.3.4.5.2|64100000^No^SNOMED-CT||||||F
+OBX|35|CE|36082003^Base of prostate^SNOMED-CT|1.3.4.5.3|64100000^No^SNOMED-CT||||||F
+OBX|36|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3.7|372278000^Histological tumour grade^SNOMED-CT||||||F
+OBX|37|NM|44641-9^Primary Gleason grade^LN|1.3.7.1|3||||||F
+OBX|38|NM|44642-7^Secondary Gleason grade^LN|1.3.7.2|4||||||F
+OBX|39|CE|385432009^Tertiary Gleason grade not applicable^SNOMED-CT|1.3.7.4|64100000^No^SNOMED-CT||||||F
+OBX|40|FT|35266-6^Gleason score^LN^372278000^^SNOMED-CT|1.3.7.5|3+4=7\.br\Composite Gleason Score (ISUP) 2005): 3+4=7 \.br\Index carcinoma score (ISUP 2005): 3+4=7 % \.br\High Grade (4/5): 5%. \.br\Intraduct carcinoma: Absent.||||||F
+OBX|41|CE|LN-RCPA-00096^Extent^LN|1.3.9|420366008^Focal^SNOMED-CT||||||F
+OBX|42|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3.10|LN-RCPA-00095^Location(s) of EPE^LN||||||F
+OBX|43|CE|at0138^Lateral^99A-F4ADB3A91A896333|1.3.10.1|64100000^No^SNOMED-CT||||||F
+OBX|44|CE|at0139^Postero-lateral^99A-F4ADB3A91A896333|1.3.10.2|64100000^No^SNOMED-CT||||||F
+OBX|45|CE|at0140^Posterior^99A-F4ADB3A91A896333|1.3.10.3|64100000^No^SNOMED-CT||||||F
+OBX|46|CE|at0141^Anterior^99A-F4ADB3A91A896333|1.3.10.4|64100000^No^SNOMED-CT||||||F
+OBX|47|CE|at0142^Bladder neck^99A-F4ADB3A91A896333|1.3.10.5|64100000^No^SNOMED-CT||||||F
+OBX|48|CE|at0143^Apical^99A-F4ADB3A91A896333|1.3.10.6|64100000^No^SNOMED-CT||||||F
+OBX|49|CE|at0144^Other^99A-F4ADB3A91A896333|1.3.10.7|64100000^No^SNOMED-CT||||||F
+OBX|50|CE|44670-8^Margin status^LN|1.3.11|55182004^Not involved^SNOMED-CT||||||F
+OBX|51|CE|44626-0^Seminal vesicles^LN|1.3.16|at0160^Not involved^99A-F4ADB3A91A896333||||||F
+OBX|52|CE|70949-3^^LN^CLUSTER^^EN 13606|1.3.19|23.02.28965^Lymph node status^RCPA||||||F
+OBX|53|NM|44621-1^Number of lymph nodes examined^LN|1.3.19.1|1||||||F
+OBX|54|NM|21893-3^Number of positive lymph nodes^LN|1.3.19.2|0||||||F
+OBX|55|CE|59544-7^Lymphovascular invasion^LN|1.3.20|at0171^Not identified^99A-F4ADB3A91A896333||||||F
+OBX|56|CE|70949-3^^LN^CLUSTER^^EN 13606|1.4|70949-3^Synthesis and overview^LN||||||F
+OBX|57|CE|70949-3^^LN^CLUSTER^^EN 13606|1.4.1|21902-2^Pathological staging (AJCC 7th Ed)^LN||||||F
+OBX|58|CE|21899-0^Primary tumour (T)^LN|1.4.1.1|at0176^T2  Organ Confined^L||||||F
+OBX|59|CE|70949-3^^LN^CLUSTER^^EN 13606|1.4.2|67203-0^Year and edition of staging system^LN||||||F
+OBX|60|ST|at0106^Year^99A-F4ADB3A91A896333|1.4.2.1|AJCC 2005||||||F
+OBX|61|ST|at0107^Edition^99A-F4ADB3A91A896333|1.4.2.2|7th Ed||||||F
+OBX|62|FT|34574-4^Diagnostic summary^LN|1.4.3|1. Radical prostatectomy: Prostatic adenocarcinoma \.br\2. Left pelvic lymph node: Fibradipose tissue only \.br\3. Right pelvic lymph node: No evidence of malignancy \.br\4. Periprostatic tissue: No evidence of malignancy \.br\5. Left apical margin: No evidence of mailgnancy 6. Left lateral margin: No evidence of malignancy||||||F
+OBX|63|ED|PDF^Display format in PDF^AUSPDI||^application^pdf^Base64^JVBE...JUVPRg0K||||||F
